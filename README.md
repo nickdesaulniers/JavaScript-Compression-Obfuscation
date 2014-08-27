@@ -39,3 +39,6 @@ obfuscation of JavaScript.
 * [Patu Digua](http://sourceforge.net/projects/digua/)
 * [node-obfuscator](https://github.com/stephenmathieson/node-obfuscator)
 
+##Check filesize
+`ll -s <filename> | awk '{ print $6 }'`
+
