@@ -16,6 +16,7 @@ obfuscation of JavaScript.
 * [The quest for Extreme JavaScript Minification](http://thingsinjars.com/post/293/the-quest-for-extreme-javascript-minification/)
 * [Compression using Canvas and PNG-embedded data](http://blog.nihilogic.dk/2008/05/compression-using-canvas-and-png.html)
 * [Superpacking JS Demos](http://daeken.com/superpacking-js-demos)
+* [PNGStore - Embedding compressed CSS & JavaScript in PNGs](http://www.iamcal.com/png-store/)
 
 ##Minification
 * [lz-string](https://github.com/pieroxy/lz-string/)
