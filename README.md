@@ -32,6 +32,7 @@ obfuscation of JavaScript.
 * [JSFuck](https://github.com/aemkei/jsfuck)
 * [Packify](https://github.com/cowboy/javascript-packify)
 * [pnginator](https://gist.github.com/gasman/2560551)
+* [LZMA-JS](https://github.com/nmrugg/LZMA-JS/)
 
 ##Obfuscation
 * [UglifyJS](http://marijnhaverbeke.nl/uglifyjs)
