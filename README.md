@@ -41,5 +41,5 @@ obfuscation of JavaScript.
 * [node-obfuscator](https://github.com/stephenmathieson/node-obfuscator)
 
 ##Check filesize
-`ll -s <filename> | awk '{ print $6 }'`
+`ls -ls <filename> | awk '{ print $6 }'`
 
